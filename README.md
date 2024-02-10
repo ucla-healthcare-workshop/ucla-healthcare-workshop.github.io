@@ -151,7 +151,6 @@ The travel award application deadline is **TBD**. Results will be announced Dece
 -->
 
 ### Accommodation
-
 If you need accommodation, nearby options include the following local hotels.
 
 - [UCLA Meyer & Renee Luskin Conference Center](https://luskinconferencecenter.ucla.edu/hotels-near-ucla/standard-rooms/)
