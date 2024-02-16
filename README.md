@@ -39,7 +39,7 @@ Lunch will be provided at Legacy Room (2nd floor).
     Speaker: [Quanquan Gu (UCLA)](https://web.cs.ucla.edu/~qgu/) <br>
     Slides: TBD
   - Title: TBD <br>
-    Speaker: TBD <br>
+    Speaker: [Hope Johnson (Teladoc Health)](https://www.linkedin.com/in/hope-johnson-42b15418/) <br>
     Slides: TBD
   - Title: TBD <br>
     Speaker: TBD <br>
