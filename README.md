@@ -38,7 +38,7 @@ Lunch will be provided at Legacy Room (2nd floor).
   - Title: TBD <br>
     Speaker: [Quanquan Gu (UCLA)](https://web.cs.ucla.edu/~qgu/) <br>
     Slides: TBD
-  - Title: TBD <br>
+  - Title: Health equity considerations in the use of generative AI <br>
     Speaker: [Hope Johnson (Teladoc Health)](https://www.linkedin.com/in/hope-johnson-42b15418/) <br>
     Slides: TBD
   - Title: TBD <br>
