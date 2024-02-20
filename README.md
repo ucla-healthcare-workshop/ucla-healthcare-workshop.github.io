@@ -3,7 +3,7 @@ We are pleased to announce the Generative AI for Healthcare Workshop at UCLA on 
 
 <div align="center">
 <img src="fig1.png" width = "30%" height = "30%" alt="fig_1" align="left" />
-<img src="speakers.png" width = "30%" height = "30%" alt="fig_1" align="right" />
+<img src="Speakers.png" width = "30%" height = "30%" alt="fig_1" align="right" />
 </div>
 <br>
 
