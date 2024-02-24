@@ -1,7 +1,7 @@
 # Generative AI for Healthcare Workshop
 
 <div align="center">
-<img src="fig1.png" width = "80%" height = "70%" alt="fig_1" align="center" />
+<img src="fig1.png" width = "80%" height = "50%" alt="fig_1" align="center" />
 </div>
 <br>
 
