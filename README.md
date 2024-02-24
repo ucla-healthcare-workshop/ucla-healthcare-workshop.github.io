@@ -36,7 +36,7 @@ For more details and registration, see [HERE](https://sites.google.com/g.ucla.ed
 ### Our Speakers
 
 <div align="center">
-<img src="Speakers.png" width = "80%" height = "80%" alt="fig_2" align="center" />
+<img src="Speakers.png" width = "100%" height = "100%" alt="fig_2" align="center" />
 </div>
 <br>
 
