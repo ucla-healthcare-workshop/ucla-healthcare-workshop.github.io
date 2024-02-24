@@ -25,7 +25,7 @@ tradeoff among fidelity, utility, and privacy, is still missing. Additionally, i
 for generating and utilizing synthetic data are not fully developed. Furthermore, the privacy law on synthetic data is still in its infancy. 
 Therefore, this workshop is to form a community of synthetic data researchers (from statistics, machine learning and mathematics), policymakers, and industrial partners, and bring them together to collaborate on the development of the theory, methodology, and algorithms needed to produce synthetic benchmark datasets and algorithms.
 -->
-### Satellite event (career panel discussion) on Thursday 4/18 5-8pm at Luskin Center: 
+### Satellite event (career panel discussion) on April. 18, 2024 5-8pm at Luskin Center: 
 <p align="justify">
 Embark on a journey to excel in data science at our exclusive panel discussion, "How to Become a Valuable Data Scientist in the Era of AI." Join industry experts as they unveil keys to success in AI utilization. Whether you're an aspiring student or a seasoned professional, gain invaluable insights and practical advice. Discover trends, network, and position yourself as a force in data science. Don't miss this opportunity to propel your career forward!
 </p>
