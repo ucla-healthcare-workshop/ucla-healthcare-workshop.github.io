@@ -30,7 +30,7 @@ Therefore, this workshop is to form a community of synthetic data researchers (f
 Embark on a journey to excel in data science at our exclusive panel discussion, "How to Become a Valuable Data Scientist in the Era of AI." Join industry experts as they unveil keys to success in AI utilization. Whether you're an aspiring student or a seasoned professional, gain invaluable insights and practical advice. Discover trends, network, and position yourself as a force in data science. Don't miss this opportunity to propel your career forward!
 </p>
 
-For more details and registration, see [HERE!](https://sites.google.com/g.ucla.edu/sws/home)
+For more details and registration, see [HERE](https://sites.google.com/g.ucla.edu/sws/home)!
 
 ### Program
 All events will be held at [UCLA Luskin hotel Conference Hotel](https://luskinconferencecenter.ucla.edu/hotels-near-ucla/), Laureate Room (1st floor).
