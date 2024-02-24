@@ -27,7 +27,7 @@ Therefore, this workshop is to form a community of synthetic data researchers (f
 -->
 ### Satellite event (career panel discussion) on Thursday 4/18 5-8pm at Luskin Center: 
 <p align="justify">
-Embark on a journey to excel in data science at our exclusive panel discussion, "How to Become a Valuable Data Scientist in the Era of AI." Join industry experts as they unveil the keys to success in leveraging artificial intelligence. Whether you're a student aspiring to enter the data realm or a seasoned professional looking to upskill, this event offers invaluable insights and practical advice. Discover the latest trends, network with peers, and position yourself as an indispensable force in the ever-evolving world of data science. Don't miss out on this unique opportunity to propel your career forward!
+Embark on a journey to excel in data science at our exclusive panel discussion, "How to Become a Valuable Data Scientist in the Era of AI." Join industry experts as they unveil keys to success in AI utilization. Whether you're an aspiring student or a seasoned professional, gain invaluable insights and practical advice. Discover trends, network, and position yourself as a force in data science. Don't miss this opportunity to propel your career forward!
 </p>
 
 For more details and registration, see [HERE!](https://sites.google.com/g.ucla.edu/sws/home)
