@@ -57,24 +57,30 @@ Lunch will be provided at Legacy Room (2nd floor).
   - Title: TBD <br>
     Speaker: TBD <br>
     Slides: TBD
-- 12:15-13:30 Lunch
-- 13:30-14:15 Keynote Talk by [Ramesh Durvasula (Eli Lilly)](https://www.linkedin.com/in/rameshdurvasula/) <br> 
+- 12:15-13:15 Lunch
+- 13:15-14:00 Keynote Talk by [Ramesh Durvasula (Eli Lilly)](https://www.linkedin.com/in/rameshdurvasula/) <br> 
               Title: TBD <br>
               Chair: TBD
-- 14:15-14:45 Poster/Coffee/Tea
-- 14:45-16:45 Invited Session 2: TBD <br>
+- 14:00-15:00 Invited Session 2: TBD <br>
   Session Chair: TBD <br>
   - Title: TBD <br>
     Speaker: [Haoda Fu (Eli Lilly)](https://www.linkedin.com/in/haoda-fu-17a5256/)
   - Title: TBD <br> 
     Speaker: [Qi Liu (FDA)](https://www.linkedin.com/in/qi-liu-9890b4a1/)
   - Title: TBD <br>
+- 15:00-15:15 Poster/Coffee/Tea
+- 13:15-14:00 Keynote Talk by [Wilko Schulz-Mahlendorf(Amazon Health Science)](https://www.linkedin.com/in/wilko-schulz-mahlendorf/) <br> 
+              Title: TBD <br>
+              Chair: TBD
+  - 16:00-17:00 Invited Session 3: TBD <br>
+  Session Chair: TBD <br>
+  - Title: TBD <br>
     Speaker: [Xiaofeng Lin (UCLA)](https://scholar.google.com/citations?user=Em2gV5UAAAAJ&hl=ko&oi=ao) <br>
     Slides: TBD
   - Title: TBD <br>
     Speaker: [Sheng Wang (University of Washington)](https://homes.cs.washington.edu/~swang/) <br>
     Slides: TBD
-- 16:45-17:00 Closing workshop
+- 17:00-17:15 Closing workshop
 
 <!--
 
