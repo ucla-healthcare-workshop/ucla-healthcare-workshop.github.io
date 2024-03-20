@@ -67,7 +67,7 @@ Lunch will be provided at Legacy Room (2nd floor).
     Speaker: [Qi Liu (FDA)](https://www.linkedin.com/in/qi-liu-9890b4a1/)
   - Title: TBD <br>
 - 15:00-15:15 Poster/Coffee/Tea
-- 13:15-14:00 Keynote Talk by [Wilko Schulz-Mahlendorf(Amazon Health Science)](https://www.linkedin.com/in/wilko-schulz-mahlendorf/) <br> 
+- 13:15-14:00 Keynote Talk by [Wilko Schulz-Mahlendorf (Amazon Health Science)](https://www.linkedin.com/in/wilko-schulz-mahlendorf/) <br> 
 - 16:00-17:00 Invited Session 3: TBD <br>
   Session Chair: TBD <br>
   - Title: TBD <br>
