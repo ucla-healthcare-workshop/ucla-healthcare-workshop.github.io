@@ -42,8 +42,8 @@ Lunch will be provided at Legacy Room (2nd floor).
 - 8-8:50 Register
 - 8:50-9 Opening Remark 
 - 9-9:40 Keynote Talk by [Eran Halperin (UCLA/United Health)](https://bioscience.ucla.edu/people/eran-halperin/)
-- 9:40-10:10 Poster/Coffee/Tea
-- 10:10-12:10 Invited Session 1:  TBD <br>
+- 9:40-10:00 Poster/Coffee/Tea
+- 10:00-12:00 Invited Session 1:  TBD <br>
   Session Chair: TBD
   - Title: TBD <br>
     Speaker: [Aptekar Jacob (Medidata)](https://www.linkedin.com/in/jacob-aptekar-b7030662/) <br>
@@ -58,18 +58,18 @@ Lunch will be provided at Legacy Room (2nd floor).
     Speaker: TBD <br>
     Slides: TBD
     
-- 12:10-13:10 Lunch
+- 12:00-13:00 Lunch
   
-- 13:10-13:50 Keynote Talk by [Wilko Schulz-Mahlendorf (Amazon Health Science)](https://www.linkedin.com/in/wilko-schulz-mahlendorf/) <br> 
-- 13:50-14:50 Invited Session 2: TBD <br>
+- 13:00-13:40 Keynote Talk by [Wilko Schulz-Mahlendorf (Amazon Health Science)](https://www.linkedin.com/in/wilko-schulz-mahlendorf/) <br> 
+- 13:40-14:40 Invited Session 2: TBD <br>
   Session Chair: TBD <br>
   - Title: TBD <br>
     Speaker: [Haoda Fu (Eli Lilly)](https://www.linkedin.com/in/haoda-fu-17a5256/)
   - Title: TBD <br> 
     Speaker: [Qi Liu (FDA)](https://www.linkedin.com/in/qi-liu-9890b4a1/)
   - Title: TBD <br>
-- 14:50-15:10 Poster/Coffee/Tea
-- 15:10-15:40 Keynote Talk by [Ramesh Durvasula (Eli Lilly)](https://www.linkedin.com/in/rameshdurvasula/) <br> 
+- 14:40-15:00 Poster/Coffee/Tea
+- 15:00-15:40 Keynote Talk by [Ramesh Durvasula (Eli Lilly)](https://www.linkedin.com/in/rameshdurvasula/) <br> 
 - 15:40-16:40 Invited Session 3: TBD <br>
   Session Chair: TBD <br>
   - Title: TBD <br>
