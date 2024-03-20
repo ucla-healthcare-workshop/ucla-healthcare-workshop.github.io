@@ -43,6 +43,7 @@ Lunch will be provided at Legacy Room (2nd floor).
 - 8:50-9 Opening Remark 
 - 9-9:40 Keynote Talk by [Eran Halperin (UCLA/United Health)](https://bioscience.ucla.edu/people/eran-halperin/)
 - 9:40-10:10 Poster/Coffee/Tea
+- 
 - 10:10-12:10 Invited Session 1:  TBD <br>
   Session Chair: TBD
   - Title: TBD <br>
@@ -57,7 +58,9 @@ Lunch will be provided at Legacy Room (2nd floor).
   - Title: TBD <br>
     Speaker: TBD <br>
     Slides: TBD
+    
 - 12:10-13:10 Lunch
+  
 - 13:10-13:50 Keynote Talk by [Wilko Schulz-Mahlendorf (Amazon Health Science)](https://www.linkedin.com/in/wilko-schulz-mahlendorf/) <br> 
 - 13:50-14:50 Invited Session 2: TBD <br>
   Session Chair: TBD <br>
