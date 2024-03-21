@@ -60,7 +60,7 @@ Lunch will be provided at Legacy Room (2nd floor).
     
 - 12:00-13:00 Lunch
   
-- 13:00-13:40 Keynote Talk by [Wilko Schulz-Mahlendorf (Amazon Health Science)](https://www.linkedin.com/in/wilko-schulz-mahlendorf/) <br> 
+- 13:00-13:40 Keynote Talk by [Ramesh Durvasula (Eli Lilly)](https://www.linkedin.com/in/rameshdurvasula/) <br> 
 - 13:40-14:40 Invited Session 2: TBD <br>
   Session Chair: TBD <br>
   - Title: TBD <br>
@@ -69,7 +69,7 @@ Lunch will be provided at Legacy Room (2nd floor).
     Speaker: [Qi Liu (FDA)](https://www.linkedin.com/in/qi-liu-9890b4a1/)
   - Title: TBD <br>
 - 14:40-15:00 Poster/Coffee/Tea
-- 15:00-15:40 Keynote Talk by [Ramesh Durvasula (Eli Lilly)](https://www.linkedin.com/in/rameshdurvasula/) <br> 
+- 15:00-15:40 Keynote Talk by [Wilko Schulz-Mahlendorf (Amazon Health Science)](https://www.linkedin.com/in/wilko-schulz-mahlendorf/) <br> 
 - 15:40-16:40 Invited Session 3: TBD <br>
   Session Chair: TBD <br>
   - Title: TBD <br>
@@ -176,7 +176,7 @@ If you need accommodation, nearby options include the following local hotels.
 - [W Los Angeles Westwood](https://www.marriott.com/en-us/hotels/laxwb-w-los-angeles-west-beverly-hills/overview/)
 
 ### Parking Information
-UCLA Structure 8, guest parking. <br>
+The nearest parking station to the Conference center is [UCLA Structure 8, guest parking station](https://www.google.com/maps/place/UCLA+Structure+8+Guest+Parking/@34.0679012,-118.4497239,17z/data=!3m2!4b1!5s0x80c2bc8f5ede4859:0x97de38ebd5c1e89c!4m6!3m5!1s0x80c2bd3365a718ef:0xbd8481dc778c2443!8m2!3d34.0678968!4d-118.447149!16s%2Fg%2F11l2pm134c?entry=ttu). <br>
 
 ### Organizers
 - [Guang Cheng, UCLA Statistics](http://www.stat.ucla.edu/~guangcheng/) (Chair)
