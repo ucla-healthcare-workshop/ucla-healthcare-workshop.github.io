@@ -175,6 +175,9 @@ If you need accommodation, nearby options include the following local hotels.
 - [Royal Palace Westwood](http://www.royalpalacewestwood.com/)
 - [W Los Angeles Westwood](https://www.marriott.com/en-us/hotels/laxwb-w-los-angeles-west-beverly-hills/overview/)
 
+### Parking Information
+
+
 ### Organizers
 - [Guang Cheng, UCLA Statistics](http://www.stat.ucla.edu/~guangcheng/) (Chair)
 - [Namjoon Suh, UCLA Statistics](https://sites.google.com/site/namjoonsuh)
