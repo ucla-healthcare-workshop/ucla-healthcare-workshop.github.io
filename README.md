@@ -176,7 +176,7 @@ If you need accommodation, nearby options include the following local hotels.
 - [W Los Angeles Westwood](https://www.marriott.com/en-us/hotels/laxwb-w-los-angeles-west-beverly-hills/overview/)
 
 ### Parking Information
-
+UCLA Structure 8, guest parking. <br>
 
 ### Organizers
 - [Guang Cheng, UCLA Statistics](http://www.stat.ucla.edu/~guangcheng/) (Chair)
