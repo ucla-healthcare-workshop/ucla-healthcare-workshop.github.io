@@ -60,7 +60,7 @@ Lunch will be provided at Legacy Room (2nd floor).
     
 - 12:00-13:00 Lunch
   
-- 13:00-13:40 Keynote Talk by [Ramesh Durvasula (Eli Lilly)](https://www.linkedin.com/in/rameshdurvasula/) <br> 
+- 13:00-13:40 Keynote Talk by [Wilko Schulz-Mahlendorf (Amazon Health Science)](https://www.linkedin.com/in/wilko-schulz-mahlendorf/) <br> 
 - 13:40-14:40 Invited Session 2: TBD <br>
   Session Chair: TBD <br>
   - Title: TBD <br>
@@ -69,7 +69,7 @@ Lunch will be provided at Legacy Room (2nd floor).
     Speaker: [Qi Liu (FDA)](https://www.linkedin.com/in/qi-liu-9890b4a1/)
   - Title: TBD <br>
 - 14:40-15:00 Poster/Coffee/Tea
-- 15:00-15:40 Keynote Talk by [Wilko Schulz-Mahlendorf (Amazon Health Science)](https://www.linkedin.com/in/wilko-schulz-mahlendorf/) <br> 
+- 15:00-15:40 Keynote Talk by [Ramesh Durvasula (Eli Lilly)](https://www.linkedin.com/in/rameshdurvasula/) <br> 
 - 15:40-16:40 Invited Session 3: TBD <br>
   Session Chair: TBD <br>
   - Title: TBD <br>
