@@ -40,7 +40,7 @@ Lunch will be provided at Legacy Room (2nd floor).
 
 #### April 19th, Friday
 - 8-8:50 Register
-- 8:50-9 Opening Remark 
+- 8:50-9 Opening Remark by Prof. [Guang Cheng, UCLA Statistics and Data Science](http://www.stat.ucla.edu/~guangcheng/)
 - 9-9:40 Keynote Talk by [Eran Halperin (UCLA/United Health)](https://bioscience.ucla.edu/people/eran-halperin/)
 - 9:40-10:00 Poster/Coffee/Tea
 - 10:00-12:00 Invited Session 1:  TBD <br>
@@ -179,10 +179,10 @@ If you need accommodation, nearby options include the following local hotels.
 The nearest parking station to the Conference center is [UCLA Structure 8, guest parking station](https://www.google.com/maps/place/UCLA+Structure+8+Guest+Parking/@34.0679012,-118.4497239,17z/data=!3m2!4b1!5s0x80c2bc8f5ede4859:0x97de38ebd5c1e89c!4m6!3m5!1s0x80c2bd3365a718ef:0xbd8481dc778c2443!8m2!3d34.0678968!4d-118.447149!16s%2Fg%2F11l2pm134c?entry=ttu). <br>
 
 ### Organizers
-- [Guang Cheng, UCLA Statistics](http://www.stat.ucla.edu/~guangcheng/) (Chair)
-- [Namjoon Suh, UCLA Statistics](https://sites.google.com/site/namjoonsuh)
+- [Guang Cheng, UCLA Statistics and Data Science](http://www.stat.ucla.edu/~guangcheng/) (Chair)
+- [Namjoon Suh, UCLA Statistics and Data Science](https://sites.google.com/site/namjoonsuh)
 - [Robert Tillman, Optum AI](https://www.linkedin.com/in/robert-tillman-33697b1a/)
-- [Qing Zhou, UCLA Statistics](http://www.stat.ucla.edu/~zhou/)
+- [Qing Zhou, UCLA Statistics and Data Science](http://www.stat.ucla.edu/~zhou/)
   
 ### Contact
 For more information contact guangcheng@ucla.edu. <br>
