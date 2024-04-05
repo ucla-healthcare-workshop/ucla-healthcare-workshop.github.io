@@ -181,7 +181,7 @@ The nearest parking station to the Conference center is [UCLA Structure 8, guest
 ### Organizers
 - [Guang Cheng, UCLA Statistics](http://www.stat.ucla.edu/~guangcheng/) (Chair)
 - [Namjoon Suh, UCLA Statistics](https://sites.google.com/site/namjoonsuh)
-- [Robert Tilman, Optum AI](https://www.linkedin.com/in/robert-tillman-33697b1a/)
+- [Robert Tillman, Optum AI](https://www.linkedin.com/in/robert-tillman-33697b1a/)
 - [Qing Zhou, UCLA Statistics](http://www.stat.ucla.edu/~zhou/)
   
 ### Contact
