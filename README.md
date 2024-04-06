@@ -46,13 +46,13 @@ Lunch will be provided at Legacy Room (2nd floor).
 - 10:00-12:00 Invited Session 1 <br>
   Session Chair: [Rober Tillman (Optum AI/UnitedHealth Group)](https://www.linkedin.com/in/robert-tillman-33697b1a/)
   - Title: TBD <br>
-    Speaker: [Qi Liu (FDA)](https://www.linkedin.com/in/qi-liu-9890b4a1/)
+    Speaker: [Qi Liu (FDA)](https://www.linkedin.com/in/qi-liu-9890b4a1/) <br>
     Slides: TBD <br>
   - Title: TBD <br>
     Speaker: [Brian Hill (Optum AI/UnitedHealth Group)](TBD) <br>
     Slides: TBD
   - Title: TBD <br>
-    Speaker: [Xiaofeng Lin (UCLA)](https://scholar.google.com/citations?user=Em2gV5UAAAAJ&hl=ko&oi=ao)
+    Speaker: [Xiaofeng Lin (UCLA)](https://scholar.google.com/citations?user=Em2gV5UAAAAJ&hl=ko&oi=ao) <br>
     Slides: TBD <br>
   - Title: TBD <br>
     Speaker: [Aptekar Jacob (Medidata)](https://www.linkedin.com/in/jacob-aptekar-b7030662/) <br>
@@ -62,11 +62,11 @@ Lunch will be provided at Legacy Room (2nd floor).
 - 13:40-14:40 Invited Session 2 <br>
   Session Chair: [Chi-Hua Wang (UCLA)](https://sites.google.com/view/chihuawang/home) <br>
   - Title: TBD <br>
-    Speaker: [Sheng Wang (University of Washington)](https://homes.cs.washington.edu/~swang/)
+    Speaker: [Sheng Wang (University of Washington)](https://homes.cs.washington.edu/~swang/) <br>
     Slides: TBD <br>
   - Title: TBD <br> 
-    Speaker: [Quanquan Gu (UCLA)](https://web.cs.ucla.edu/~qgu/) 
-    Slides: TBD <br>
+    Speaker: [Quanquan Gu (UCLA)](https://web.cs.ucla.edu/~qgu/) <br>
+    Slides: TBD 
 - 14:40-15:00 Poster/Coffee/Tea
 - 15:00-15:40 Keynote Talk by [Ramesh Durvasula (Eli Lilly)](https://www.linkedin.com/in/rameshdurvasula/) <br> 
 - 15:40-16:40 Invited Session 3 <br>
