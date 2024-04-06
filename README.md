@@ -44,18 +44,18 @@ Lunch will be provided at Legacy Room (2nd floor).
 - 9-9:40 Keynote Talk by [Eran Halperin (UCLA/United Health)](https://bioscience.ucla.edu/people/eran-halperin/)
 - 9:40-10:00 Poster/Coffee/Tea
 - 10:00-12:00 Invited Session 1:  TBD <br>
-  Session Chair: TBD
+  Session Chair: [Rober Tillman (Optum AI/UnitedHealth Group)](https://www.linkedin.com/in/robert-tillman-33697b1a/)
+  - Title: TBD <br>
+    Speaker: [Qi Liu (FDA)](https://www.linkedin.com/in/qi-liu-9890b4a1/)
+    Slides: TBD
+  - Title: TBD <br>
+    Speaker: [Brian Hill (Optum AI/UnitedHealth Group)](TBD) <br>
+    Slides: TBD
+  - Title: TBD <br>
+    Speaker: [Xiaofeng Lin (UCLA)](https://scholar.google.com/citations?user=Em2gV5UAAAAJ&hl=ko&oi=ao)
+    Slides: TBD
   - Title: TBD <br>
     Speaker: [Aptekar Jacob (Medidata)](https://www.linkedin.com/in/jacob-aptekar-b7030662/) <br>
-    Slides: TBD
-  - Title: TBD <br>
-    Speaker: [Quanquan Gu (UCLA)](https://web.cs.ucla.edu/~qgu/) <br>
-    Slides: TBD
-  - Title: Health equity considerations in the use of generative AI <br>
-    Speaker: [Hope Johnson (Teladoc Health)](https://www.linkedin.com/in/hope-johnson-42b15418/) <br>
-    Slides: TBD
-  - Title: TBD <br>
-    Speaker: TBD <br>
     Slides: TBD
     
 - 12:00-13:00 Lunch
@@ -64,19 +64,19 @@ Lunch will be provided at Legacy Room (2nd floor).
 - 13:40-14:40 Invited Session 2: TBD <br>
   Session Chair: TBD <br>
   - Title: TBD <br>
-    Speaker: [Haoda Fu (Eli Lilly)](https://www.linkedin.com/in/haoda-fu-17a5256/)
+    Speaker: [Sheng Wang (University of Washington)](https://homes.cs.washington.edu/~swang/) 
   - Title: TBD <br> 
-    Speaker: [Qi Liu (FDA)](https://www.linkedin.com/in/qi-liu-9890b4a1/)
-  - Title: TBD <br>
+    Speaker: [Quanquan Gu (UCLA)](https://web.cs.ucla.edu/~qgu/) 
 - 14:40-15:00 Poster/Coffee/Tea
+
 - 15:00-15:40 Keynote Talk by [Ramesh Durvasula (Eli Lilly)](https://www.linkedin.com/in/rameshdurvasula/) <br> 
 - 15:40-16:40 Invited Session 3: TBD <br>
   Session Chair: TBD <br>
   - Title: TBD <br>
-    Speaker: [Xiaofeng Lin (UCLA)](https://scholar.google.com/citations?user=Em2gV5UAAAAJ&hl=ko&oi=ao) <br>
+    Speaker: [Haoda Fu (Eli Lilly)](https://www.linkedin.com/in/haoda-fu-17a5256/) <br>
     Slides: TBD
-  - Title: TBD <br>
-    Speaker: [Sheng Wang (University of Washington)](https://homes.cs.washington.edu/~swang/) <br>
+  - Title:  Health equity considerations in the use of generative AI <br>
+    Speaker: [Hope Johnson (Teladoc Health)](https://www.linkedin.com/in/hope-johnson-42b15418/) <br> 
     Slides: TBD
 - 16:40-16:45 Closing workshop
 
