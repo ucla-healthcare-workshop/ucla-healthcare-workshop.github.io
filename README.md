@@ -56,7 +56,7 @@ Lunch will be provided at Legacy Room (2nd floor).
     Slides: TBD <br>
   - Title: TBD <br>
     Speaker: [Aptekar Jacob (Medidata)](https://www.linkedin.com/in/jacob-aptekar-b7030662/) <br>
-    Slides: TBD 
+    Slides: TBD <br>
 - 12:00-13:00 Lunch
 - 13:00-13:40 Keynote Talk by [Wilko Schulz-Mahlendorf (Amazon Health Science)](https://www.linkedin.com/in/wilko-schulz-mahlendorf/) <br> 
 - 13:40-14:40 Invited Session 2 <br>
@@ -66,7 +66,7 @@ Lunch will be provided at Legacy Room (2nd floor).
     Slides: TBD <br>
   - Title: TBD <br> 
     Speaker: [Quanquan Gu (UCLA)](https://web.cs.ucla.edu/~qgu/) 
-    Slides: TBD     
+    Slides: TBD <br>
 - 14:40-15:00 Poster/Coffee/Tea
 - 15:00-15:40 Keynote Talk by [Ramesh Durvasula (Eli Lilly)](https://www.linkedin.com/in/rameshdurvasula/) <br> 
 - 15:40-16:40 Invited Session 3 <br>
