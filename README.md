@@ -43,7 +43,7 @@ Lunch will be provided at Legacy Room (2nd floor).
 - 8:50-9 Opening Remark by Prof. [Guang Cheng, UCLA Statistics and Data Science](http://www.stat.ucla.edu/~guangcheng/)
 - 9-9:40 Keynote Talk by [Eran Halperin (UCLA/United Health)](https://bioscience.ucla.edu/people/eran-halperin/)
 - 9:40-10:00 Poster/Coffee/Tea
-- 10:00-12:00 Invited Session 1: <br>
+- 10:00-12:00 Invited Session 1 <br>
   Session Chair: [Rober Tillman (Optum AI/UnitedHealth Group)](https://www.linkedin.com/in/robert-tillman-33697b1a/)
   - Title: TBD <br>
     Speaker: [Qi Liu (FDA)](https://www.linkedin.com/in/qi-liu-9890b4a1/)
@@ -59,7 +59,7 @@ Lunch will be provided at Legacy Room (2nd floor).
     Slides: TBD 
 - 12:00-13:00 Lunch
 - 13:00-13:40 Keynote Talk by [Wilko Schulz-Mahlendorf (Amazon Health Science)](https://www.linkedin.com/in/wilko-schulz-mahlendorf/) <br> 
-- 13:40-14:40 Invited Session 2: <br>
+- 13:40-14:40 Invited Session 2 <br>
   Session Chair: [Chi-Hua Wang (UCLA)](https://sites.google.com/view/chihuawang/home) <br>
   - Title: TBD <br>
     Speaker: [Sheng Wang (University of Washington)](https://homes.cs.washington.edu/~swang/)
@@ -69,7 +69,7 @@ Lunch will be provided at Legacy Room (2nd floor).
     Slides: TBD     
 - 14:40-15:00 Poster/Coffee/Tea
 - 15:00-15:40 Keynote Talk by [Ramesh Durvasula (Eli Lilly)](https://www.linkedin.com/in/rameshdurvasula/) <br> 
-- 15:40-16:40 Invited Session 3: <br>
+- 15:40-16:40 Invited Session 3 <br>
   Session Chair: [Weixiang Chen (Geminos Software)](https://www.linkedin.com/in/weixiangchen/) <br>
   - Title: TBD <br>
     Speaker: [Haoda Fu (Eli Lilly)](https://www.linkedin.com/in/haoda-fu-17a5256/) <br>
