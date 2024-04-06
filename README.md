@@ -47,16 +47,16 @@ Lunch will be provided at Legacy Room (2nd floor).
   Session Chair: [Rober Tillman (Optum AI/UnitedHealth Group)](https://www.linkedin.com/in/robert-tillman-33697b1a/)
   - Title: TBD <br>
     Speaker: [Qi Liu (FDA)](https://www.linkedin.com/in/qi-liu-9890b4a1/)
-    Slides: TBD
+    Slides: TBD <br>
   - Title: TBD <br>
     Speaker: [Brian Hill (Optum AI/UnitedHealth Group)](TBD) <br>
     Slides: TBD
   - Title: TBD <br>
     Speaker: [Xiaofeng Lin (UCLA)](https://scholar.google.com/citations?user=Em2gV5UAAAAJ&hl=ko&oi=ao)
-    Slides: TBD
+    Slides: TBD <br>
   - Title: TBD <br>
     Speaker: [Aptekar Jacob (Medidata)](https://www.linkedin.com/in/jacob-aptekar-b7030662/) <br>
-    Slides: TBD
+    Slides: TBD <br>
     
 - 12:00-13:00 Lunch
   
@@ -65,10 +65,10 @@ Lunch will be provided at Legacy Room (2nd floor).
   Session Chair: TBD <br>
   - Title: TBD <br>
     Speaker: [Sheng Wang (University of Washington)](https://homes.cs.washington.edu/~swang/)
-    Slides: TBD
+    Slides: TBD <br>
   - Title: TBD <br> 
     Speaker: [Quanquan Gu (UCLA)](https://web.cs.ucla.edu/~qgu/) 
-    Slides: TBD
+    Slides: TBD <br>
     
 - 14:40-15:00 Poster/Coffee/Tea
 
@@ -77,10 +77,10 @@ Lunch will be provided at Legacy Room (2nd floor).
   Session Chair: [Weixiang Chen (Geminos Software)](https://www.linkedin.com/in/weixiangchen/) <br>
   - Title: TBD <br>
     Speaker: [Haoda Fu (Eli Lilly)](https://www.linkedin.com/in/haoda-fu-17a5256/) <br>
-    Slides: TBD
+    Slides: TBD <br>
   - Title:  Health equity considerations in the use of generative AI <br>
     Speaker: [Hope Johnson (Teladoc Health)](https://www.linkedin.com/in/hope-johnson-42b15418/) <br> 
-    Slides: TBD
+    Slides: TBD <br>
 - 16:40-16:45 Closing workshop
 
 <!--
