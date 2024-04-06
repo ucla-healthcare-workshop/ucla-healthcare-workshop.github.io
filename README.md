@@ -64,14 +64,17 @@ Lunch will be provided at Legacy Room (2nd floor).
 - 13:40-14:40 Invited Session 2: TBD <br>
   Session Chair: TBD <br>
   - Title: TBD <br>
-    Speaker: [Sheng Wang (University of Washington)](https://homes.cs.washington.edu/~swang/) 
+    Speaker: [Sheng Wang (University of Washington)](https://homes.cs.washington.edu/~swang/)
+    Slides: TBD
   - Title: TBD <br> 
     Speaker: [Quanquan Gu (UCLA)](https://web.cs.ucla.edu/~qgu/) 
+    Slides: TBD
+    
 - 14:40-15:00 Poster/Coffee/Tea
 
 - 15:00-15:40 Keynote Talk by [Ramesh Durvasula (Eli Lilly)](https://www.linkedin.com/in/rameshdurvasula/) <br> 
 - 15:40-16:40 Invited Session 3: TBD <br>
-  Session Chair: TBD <br>
+  Session Chair: [Weixiang Chen (Geminos Software)](https://www.linkedin.com/in/weixiangchen/) <br>
   - Title: TBD <br>
     Speaker: [Haoda Fu (Eli Lilly)](https://www.linkedin.com/in/haoda-fu-17a5256/) <br>
     Slides: TBD
