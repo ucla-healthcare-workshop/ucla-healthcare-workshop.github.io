@@ -39,8 +39,8 @@ All events will be held at [UCLA Luskin hotel Conference Hotel](https://luskinco
 Lunch will be provided at Legacy Room (2nd floor).
 
 #### April 19th, Friday
-- 8-8:50 Register
-- 8:50-9 Opening Remark by Prof. [Guang Cheng, UCLA Statistics and Data Science](http://www.stat.ucla.edu/~guangcheng/)
+- 8:25-8:55 Register
+- 8:55-9 Opening Remark by Prof. [Guang Cheng, UCLA Statistics and Data Science](http://www.stat.ucla.edu/~guangcheng/)
 - 9-9:40 Keynote Talk by [Eran Halperin (UCLA/United Health)](https://bioscience.ucla.edu/people/eran-halperin/), Chaired by [Robert Tillman (Optum AI/UnitedHealth Group)](https://www.linkedin.com/in/robert-tillman-33697b1a/)
 - 9:40-10:00 Poster/Coffee/Tea
 - 10:00-12:00 Invited Session 1 <br>
