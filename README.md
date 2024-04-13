@@ -51,8 +51,8 @@ Lunch will be provided at Legacy Room (2nd floor).
     Speaker: [Brian Hill (Optum AI/UnitedHealth Group)](TBD) <br>
   - Title: Towards a Foundation Model on Tabular Data <br>
     Speaker: [Xiaofeng Lin (UCLA)](https://scholar.google.com/citations?user=Em2gV5UAAAAJ&hl=ko&oi=ao) <br>
-  - Title: TBD <br>
-    Speaker: [Aptekar Jacob (Medidata)](https://www.linkedin.com/in/jacob-aptekar-b7030662/) <br>
+  - Title: Creating production grade (Gen)AI powered software in Clinical Trial <br>
+    Speaker: [Lichen Shen (Medidata)] <br>
 - 12:00-13:00 Lunch
 - 13:00-13:40 Keynote Talk by [Wilko Schulz-Mahlendorf (Amazon Health Science)](https://www.linkedin.com/in/wilko-schulz-mahlendorf/) <be>
   - Title:  Generative AI opportunities for health customers, patients, and providers <br> 
@@ -135,6 +135,9 @@ Session Chair: [Andrés Felipe Barrientos, FSU Statistics](https://anfebar.githu
 - [Joshua Snoke, RAND](https://www.rand.org/about/people/s/snoke_joshua.html)
 - [Aaron Williams, Urban Institute](https://www.urban.org/author/aaron-r-williams)
 -->
+
+### Detailed Talk Information.
+For detailed talk information [**CLICK HERE**](https://sites.google.com/view/healthcareworkshopucla/home). <br>
 
 ### Poster
 It is strongly encouraged to upload your poster in the registration link below (deadline is April 15th). You need to bring posters to the conference site to setup. The poster exhibit time is from 9:40-17:00.
