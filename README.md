@@ -41,9 +41,11 @@ Lunch will be provided at Legacy Room (2nd floor).
 #### April 19th, Friday
 - 8:25-8:55 Register
 - 8:55-9 Opening Remark by Prof. [Guang Cheng, UCLA Statistics and Data Science](http://www.stat.ucla.edu/~guangcheng/)
-- 9-9:40 Keynote Talk by [Eran Halperin (UCLA/United Health)](https://bioscience.ucla.edu/people/eran-halperin/), Chaired by [Robert Tillman (Optum AI/UnitedHealth Group)](https://www.linkedin.com/in/robert-tillman-33697b1a/)
+- 9-9:40 Keynote Talk by [Eran Halperin (UCLA/United Health)](https://bioscience.ucla.edu/people/eran-halperin/), <br>
+  - Chaired by [Robert Tillman (Optum AI/UnitedHealth Group)](https://www.linkedin.com/in/robert-tillman-33697b1a/)
   - Title:  TBD <br> 
 - 9:40-10:00 Poster/Coffee/Tea <br>
+
 - 10:00-12:00 Invited Session 1 <br>
   Session Chair: [Guang Cheng (UCLA)](http://www.stat.ucla.edu/~guangcheng/)
   - Title: AI/ML: New frontier in drug development <br>
@@ -54,24 +56,29 @@ Lunch will be provided at Legacy Room (2nd floor).
     Speaker: [Xiaofeng Lin (UCLA)](https://scholar.google.com/citations?user=Em2gV5UAAAAJ&hl=ko&oi=ao) <br>
   - Title: Creating production grade (Gen)AI powered software in Clinical Trial <br>
     Speaker: Lichen Shen (Medidata) (Contact Info: lichen.shen@3ds.com) <br>
+
 - 12:00-13:00 Lunch
 - 13:00-13:40 Keynote Talk by [Wilko Schulz-Mahlendorf (Amazon Health Science)](https://www.linkedin.com/in/wilko-schulz-mahlendorf/) <be>
   - Title:  Generative AI opportunities for health customers, patients, and providers <br> 
+
 - 13:40-14:40 Invited Session 2 <br>
   Session Chair: [Chi-Hua Wang (UCLA)](https://sites.google.com/view/chihuawang/home) <br>
   - Title: TBD <br>
     Speaker: [Sheng Wang (University of Washington)](https://homes.cs.washington.edu/~swang/) <br>
   - Title: Guided Discrete Diffusion for Electronic Health Record Generation <br> 
     Speaker: [Quanquan Gu (UCLA)](https://web.cs.ucla.edu/~qgu/) <br>
+
 - 14:40-15:00 Poster/Coffee/Tea
 - 15:00-15:40 Keynote Talk by [Ramesh Durvasula (Eli Lilly)](https://www.linkedin.com/in/rameshdurvasula/) <br>
   - Title: GenAI in Pharma: It’s not a question of WHETHER, it’s a question of HOW (and how much…) <br>
+
 - 15:40-16:40 Invited Session 3 <br>
   Session Chair: [Weixiang Chen (Geminos Software)](https://www.linkedin.com/in/weixiangchen/) <br>
   - Title: LLM Is Not All You Need. Generative AI on Smooth Manifolds  <br>
     Speaker: [Haoda Fu (Eli Lilly)](https://www.linkedin.com/in/haoda-fu-17a5256/) <br>
   - Title:  The Equity Imperative: Crafting Fair Generative AI Solutions in Healthcare <br>
     Speaker: [Hope Johnson (Teladoc Health)](https://www.linkedin.com/in/hope-johnson-42b15418/) <br> 
+
 - 16:40-16:45 Closing workshop
 
 <!--
