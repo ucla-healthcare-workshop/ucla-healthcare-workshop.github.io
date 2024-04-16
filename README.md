@@ -43,7 +43,7 @@ Lunch will be provided at Legacy Room (2nd floor).
 - 8:55-9 Opening Remark by Prof. [Guang Cheng, UCLA Statistics and Data Science](http://www.stat.ucla.edu/~guangcheng/)
 - 9-9:40 Keynote Talk by [Eran Halperin (UCLA/United Health)](https://bioscience.ucla.edu/people/eran-halperin/), <br>
   - Chaired by [Robert Tillman (Optum AI/UnitedHealth Group)](https://www.linkedin.com/in/robert-tillman-33697b1a/)
-  - Title:  TBD <br> 
+  - Title:  Machine Learning in Healthcare <br> 
 - 9:40-10:00 Poster/Coffee/Tea <br>
 
 - 10:00-12:00 Invited Session 1 <br>
@@ -63,7 +63,7 @@ Lunch will be provided at Legacy Room (2nd floor).
 
 - 13:40-14:40 Invited Session 2 <br>
   Session Chair: [Chi-Hua Wang (UCLA)](https://sites.google.com/view/chihuawang/home) <br>
-  - Title: TBD <br>
+  - Title: Filling the gaps between medical foundation models and real-world clinical applications <br>
     Speaker: [Sheng Wang (University of Washington)](https://homes.cs.washington.edu/~swang/) <br>
   - Title: Guided Discrete Diffusion for Electronic Health Record Generation <br> 
     Speaker: [Quanquan Gu (UCLA)](https://web.cs.ucla.edu/~qgu/) <br>
