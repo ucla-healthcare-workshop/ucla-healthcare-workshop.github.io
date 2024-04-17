@@ -155,8 +155,8 @@ It is strongly encouraged to upload your poster in the registration link below (
 ### Travel Support
 Only students submitting a poster is qualified for applying for travel support and free of registration. -->
 
-### Registration (Deadline **April 15th, 2024**) No Registration Fee.
-[**CLICK HERE**](https://docs.google.com/forms/d/e/1FAIpQLSc_TlOYIx27Sy32iJfbWiWVE7PbcnoDlENs5b3dkOcFlQx2Xw/viewform) for registration. <br>
+### Registration is now closed.
+
 
 <!-- 
 ### Diversity Travel Awards
